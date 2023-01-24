@@ -1,4 +1,15 @@
-
+const keys = [
+	"0",
+	"1",
+	"abc",
+	"def",
+	"ghi",
+	"jkl",
+	"mno",
+	"pqrs",
+	"tuv",
+	"wxyz",
+]
 
 function letterCombinations(input_digit) {
   //Complete the function
